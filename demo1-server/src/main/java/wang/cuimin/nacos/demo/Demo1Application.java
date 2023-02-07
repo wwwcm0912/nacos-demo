@@ -1,13 +1,13 @@
-package wang.cuimin.nacosdemo;
+package wang.cuimin.nacos.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NacosDemoApplication {
+public class Demo1Application {
 
     public static void main(String[] args) {
-        SpringApplication.run(NacosDemoApplication.class, args);
+        SpringApplication.run(Demo1Application.class, args);
     }
 
 }
